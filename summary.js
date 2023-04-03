@@ -79,6 +79,14 @@ function PatelOut(){
     document.getElementById("Patel").style.display = "none"
 }
 
+function JoshIn(){
+    document.getElementById("Josh").style.display = "block"
+}
+
+function JoshOut(){
+    document.getElementById("Josh").style.display = "none"
+}
+
 function BenIn(){
     document.getElementById("Ben").style.display = "block"
 }
@@ -87,10 +95,3 @@ function BenOut(){
     document.getElementById("Ben").style.display = "none"
 }
 
-function JoshIn(){
-    document.getElementById("Josh").style.display = "block"
-}
-
-function JoshOut(){
-    document.getElementById("Josh").style.display = "none"
-}
